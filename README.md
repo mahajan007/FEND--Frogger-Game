@@ -19,3 +19,4 @@ Or to play it online click on this link: https://mahajan007.github.io/FEND--Frog
 2. The objective is to reach on the other side without getting hit by bugs.
 3. Each time you reach the top of the water your score increases.
 4. Avoid the bugs, they kill you. Your score will be set to zero if you hit a bug. 
+
